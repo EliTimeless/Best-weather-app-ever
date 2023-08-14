@@ -1,0 +1,69 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+i {
+  color: #0d576c;
+}
+.main {
+  border: solid 2px #afd3e2;
+  background-color: #f5e3e3;
+  border-radius: 20px;
+  margin: 40px auto;
+  padding: 20px 20px;
+}
+
+a {
+  color: #146c94;
+}
+a:hover {
+  color: #19a7ce;
+}
+form {
+  text-align: left;
+  font-size: 20px;
+  margin: 30px 20px 10px 20px;
+}
+input {
+  padding: 5px 20px;
+  border-radius: 30px;
+  text-align: center;
+  font-style: italic;
+  box-shadow: 5px 5px 5px #afd3e2;
+}
+button {
+  text-align: left;
+  border-radius: 30px;
+  background-color: #709cb1;
+  color: #0c0b0b;
+  padding: 5px 20px;
+  margin: 20px 20px;
+}
+
+#curr-date {
+  text-align: left;
+  margin: 0, 20px;
+}
+.first,
+.second {
+  font-size: 30px;
+  color: #041118;
+}
+
+.other-days {
+  color: #146c94;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 10px 20px;
+}
+.card-group {
+  border: 1px solid #99dbf5;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+.card-text {
+  font-size: 20px;
+}
